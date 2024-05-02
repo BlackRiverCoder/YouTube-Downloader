@@ -10,7 +10,7 @@
       ```
       
   - ***Install **FFMPEG**:***
-    - [**Windows:**](https://www.wikihow.com/Install-FFmpeg-on-Windows)
+    - [**Windows**](https://www.wikihow.com/Install-FFmpeg-on-Windows)
     - **Linux:**
       ```
       sudo apt-get update && sudo apt-get install -y ffmpeg
