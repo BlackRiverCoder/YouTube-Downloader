@@ -173,7 +173,7 @@ destination_folder = '-o "' + main_disk + '/Users/' + user_name + '/Downloads\%(
 #option - basic setup or advandced setup:
 print('Setup option:')
 print(Fore.CYAN + ' 1.) Basic Setup')
-print(Fore.CYAN + ' 2.) Advanced setup')
+print(Fore.CYAN + ' 2.) Advanced Setup')
 print(Fore.CYAN + ' 3.) Skip to URL (default settings will be used)')
 print(Fore.CYAN + '                 (use "S" to show default settings)')
 print(Fore.RED + ' e.) Exit')
