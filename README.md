@@ -17,5 +17,19 @@
       ffmpeg -version
       ```
 
+## Update yt-dlp:
+  > [!NOTE]
+  > If yt-dlp was't installed using pip, update is automatic.
+  - ***For Windows (if yt-dlp was installed using **pip**):***
+    ```
+    pip3 install --upgrade yt-dlp
+    ```
+
+## Usage:
+  - ***Main menu:***
+    - **1.) Basic Setup - includes 3 basic options**
+    - **2.) Advanced Setup - more extended menu than ***Basic Setup*****
+    - 
+
   
       
