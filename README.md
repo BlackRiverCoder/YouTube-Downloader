@@ -37,7 +37,7 @@
 ## Update yt-dlp:
   > [!NOTE]
   > If yt-dlp was't installed using pip, update is automatic.
-  - ***For Windows (if yt-dlp was installed using **pip**):***
+  - ***If yt-dlp was installed using pip:***
     ```
     pip3 install --upgrade yt-dlp
     ```
