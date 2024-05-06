@@ -1,5 +1,10 @@
 # YouTube-Downloader
 ## Installation:
+  - ***Git clone or just download the files:***
+      ```
+      sudo git clone https://github.com/BlackRiverCoder/YouTube-Downloader.git
+      ```
+      
   - ***Install requirements:***
       ```
       pip3 install -r requirements.txt
@@ -17,14 +22,6 @@
       ffmpeg -version
       ```
 
-## Update yt-dlp:
-  > [!NOTE]
-  > If yt-dlp was't installed using pip, update is automatic.
-  - ***For Windows (if yt-dlp was installed using **pip**):***
-    ```
-    pip3 install --upgrade yt-dlp
-    ```
-
 ## Usage:
   - ***Main menu:***
     - **1.) Basic Setup - includes 3 basic options**
@@ -36,5 +33,11 @@
     - **1.) Will close actual terminal, open another terminal and copy the generated code**
     - **2.) Will download the video without closing terminal**
     ![](https://github.com/BlackRiverCoder/YouTube-Downloader/blob/master/Assets/Images/Generated%20code.png)
-  
-      
+
+## Update yt-dlp:
+  > [!NOTE]
+  > If yt-dlp was't installed using pip, update is automatic.
+  - ***For Windows (if yt-dlp was installed using **pip**):***
+    ```
+    pip3 install --upgrade yt-dlp
+    ```
