@@ -28,8 +28,9 @@
 ## Usage:
   - ***Main menu:***
     - **1.) Basic Setup - includes 3 basic options**
-    - **2.) Advanced Setup - more extended menu than __Basic Setup__**
-    - 
+    - **2.) Advanced Setup - more extended menu than Basic Setup**
+    - **3.) Skip to URL - uses default setting, which can be viewed using ***S*** option**
+    ![](https://github.com/BlackRiverCoder/YouTube-Downloader/blob/master/Assets/Images/Main%20menu.png)
 
   
       
