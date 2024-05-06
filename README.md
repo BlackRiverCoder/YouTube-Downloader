@@ -28,7 +28,7 @@
 ## Usage:
   - ***Main menu:***
     - **1.) Basic Setup - includes 3 basic options**
-    - **2.) Advanced Setup - more extended menu than ***Basic Setup*****
+    - **2.) Advanced Setup - more extended menu than __Basic Setup__**
     - 
 
   
