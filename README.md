@@ -32,5 +32,9 @@
     - **3.) Skip to URL - uses default setting, which can be viewed using ***S*** option**
     ![](https://github.com/BlackRiverCoder/YouTube-Downloader/blob/master/Assets/Images/Main%20menu.png)
 
+  - **Generated code for yt-dlp:**
+    - **1.) Will close actual terminal, open another terminal and copy the generated code**
+    - **2.) Will download the video without closing terminal**
+    ![](https://github.com/BlackRiverCoder/YouTube-Downloader/blob/master/Assets/Images/Generated%20code.png)
   
       
